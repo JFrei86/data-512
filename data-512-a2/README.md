@@ -32,15 +32,3 @@ Overview of Google’s Conversation AI project: https://conversationai.github.io
 ## Motivation
 
 The hypothesis for this exploration is that annotator gender, education, and first language each play a role in labelling behavior for aggresion and toxicity. I also hypothesize the comments with the least agreement for toxicity and aggression contain words and phrases that are not overtly aggressive, or perhaps do not use formal grammatical structure.
-
-## Results
-
-TODO
-
-## Implications
-
-__What are some other contexts or applications where you would expect the Perspective API to perform particularly well, or particularly poorly? Why?__
-
-__What are some kinds of hostile speech that would be difficult to accurately detect using the approach used to train the Perspective API models?__
-
-__What are some potential unintended, negative consequences of using the Perspective API for any of these purposes? In your opinion, are these consequences likely or serious enough that you would recommend that the Perspective API not be used in these applications? Why or why not?__
