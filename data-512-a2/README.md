@@ -25,7 +25,9 @@ Overview of Google’s Conversation AI project: https://conversationai.github.io
 ## Questions under analysis
 
 1. What are top 5 comments with the least agreement for toxicity and aggression?
+   (Which comments have the highest variance in annotation?)
 2. Do gender, education, and English as a first language, play a factor in labelling behavior for aggression and toxicity?
+   (Is the mean different between genders, between education levels, and different first languages?)
 
 ## Motivation
 
